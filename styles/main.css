@@ -99,25 +99,25 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-blue,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-blue {
   color: #fff;
-  background: #2CA8FF;
+  background: #ff6347;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-green,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-green {
   color: #fff;
-  background: #18ce0f;
+  background: #ff6347;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-orange,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-orange {
-  background: #FFB236;
+  background: #FF6347;
   color: #fff;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-red,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-red {
   color: #fff;
-  background: #FF3636;
+  background: #FF6347;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-default,
@@ -2629,12 +2629,12 @@ textarea.form-control:focus, textarea.form-control:active {
 }
 
 .progress-container.progress-success .progress-bar {
-  background: #18ce0f;
+  background: #ff6347;
 }
 
 .progress-container.progress-success .progress-value,
 .progress-container.progress-success .progress-badge {
-  color: #18ce0f;
+  color: #ff6347;
 }
 
 .progress-container.progress-warning .progress {
